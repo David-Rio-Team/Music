@@ -25,7 +25,7 @@ async def start(_, message: Message):
                         "قناة للشروحات", url="https://t.me/X6UX6"
                     ),
                     InlineKeyboardButton(
-                        "قناة البوت", url="https://t.me/CQCQQ"
+                        "قناة البوت", url="https://t.me/L9L9L"
                     )
                 ],[ 
                     InlineKeyboardButton(
