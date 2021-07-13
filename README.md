@@ -4,7 +4,7 @@
 
 - Devloper [Rio](https://t.me/tsttt)
 - Python 3.7+
-- Ch [Ch Bot Music](https://t.me/L9L9L)
+- [Ch Bot Music](https://t.me/L9L9L)
 
 <h2 align="centre">⚙️ Set Up ⚙️</h3>
 
@@ -26,4 +26,4 @@ Get STRING_NAME from here:
 ## Credits
 
 - Devloper [Rio](https://t.me/tsttt)
-- Ch Devloper [Ch Devloper](https://t.me/L9L9L)
+- [Ch Devloper](https://t.me/L9L9L)
